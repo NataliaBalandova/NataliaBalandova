@@ -12,10 +12,10 @@
 `Тест-дизайн` `Составление баг-репортов` `Чек-листы`
 
 **Инструменты:**
-`SQL` `Chrome DevTools` `Git`
+`SQL` `Chrome DevTools` `Git` `Jira`
 
 **Изучаю сейчас:**
-`Postman` `Python` `Selenium` 
+`Postman` `Python`  
 
 ---
 
