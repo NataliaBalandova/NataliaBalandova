@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет, я Наташа 👋
 
-<!--
-**NataliaBalandova/NataliaBalandova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий QA-инженер. Тестирую веб- и мобильные приложения вручную.
+Изучаю автоматизацию и API-тестирование. Ищу первую работу в сфере QA.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Навыки
+
+**Тестирование:**
+`Функциональное тестирование` `Регрессионное тестирование`
+`Тест-дизайн` `Составление баг-репортов` `Чек-листы`
+
+**Инструменты:**
+`SQL` `Chrome DevTools` `Git`
+
+**Изучаю сейчас:**
+`Postman` `Python` `Selenium` 
+
+---
+
+
+## 📫 Контакты
+
+- 📧 [shnuftii@gmail.com]
+- 📱 Telegram: [@NataliBalandova](https://t.me/ник)
